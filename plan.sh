@@ -10,7 +10,7 @@ systems and with Apple OS X.\
 pkg_upstream_url="http://www.vim.org/"
 pkg_license=("Vim")
 pkg_source="http://github.com/${pkg_name}/${pkg_name}/archive/v${pkg_version}.tar.gz"
-pkg_shasum="5b1b1951c620861ba21831fd66ed08bee4268d23fcb22ed2f09cc31e1558db2a"
+pkg_shasum="7537ec5249a7c34da9484c95e84dd578b2cb039e510f01d9f3066262ed533e1a"
 pkg_deps=(
   core/acl
   core/attr
