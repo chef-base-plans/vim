@@ -1,6 +1,6 @@
 pkg_name=vim
 pkg_origin=core
-pkg_version=8.2.2619
+pkg_version=8.2.2825
 pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
 pkg_description="\
 Vim is a highly configurable text editor built to make creating and changing \
@@ -10,7 +10,7 @@ systems and with Apple OS X.\
 pkg_upstream_url="http://www.vim.org/"
 pkg_license=("Vim")
 pkg_source="http://github.com/${pkg_name}/${pkg_name}/archive/v${pkg_version}.tar.gz"
-pkg_shasum="7537ec5249a7c34da9484c95e84dd578b2cb039e510f01d9f3066262ed533e1a"
+pkg_shasum="c75acdac8b80e664666663d3429efe1eb25be7f13db0bd3697a2d2a78dd1bb66"
 pkg_deps=(
   core/acl
   core/attr
